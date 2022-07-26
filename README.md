@@ -1,1 +1,1 @@
-# ERD_for_the_life_insurance_process
+ERD системы "Страхование жизни"
